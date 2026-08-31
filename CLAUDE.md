@@ -57,6 +57,13 @@ Review her prompts in full → check connectors LIVE (never from memory) → ask
 - **bridget@bridgeconsulting.org.nz is COMPROMISED** — never direct replies there.
 - **No SMS, no phone verification, no WhatsApp** anywhere. The number is SIM-swapped; NZ Police notified.
 
+## 5a. ACCOUNTS
+
+- **Claude account = bridget@bridgeconsulting.org.nz ONLY** — the Max subscription. Retain it. Confirmed again 31 Aug 2026: consolidation must keep org.nz and close the others, regardless of which address replies are sent to.
+- **Microsoft end state = bridget@bridgeconsulting.co.nz primary.**
+- **Xero = billing truth.**
+- Notion boards: "Claude — Tasks & Updates" and "Microsoft — Cases & Updates" — log findings there the same turn.
+
 ## 6. REPORTING FORMAT
 
 - **NO TABLES in responses to her.** She processes visually — status boards, diagrams, bullets.
@@ -99,7 +106,12 @@ Any page or file created outside a Claude-named location carries author, date an
 - Pattern: redirect the contact email, then act on the account. Seen at Google Payments (11 Aug), Q Mastercard (24 Aug), Notion App (26 Aug).
 - Treat any credential, token or key found in plain text as live and exposed — tell her, and never reproduce its value in a report.
 
-## 12. EFFICIENCY (Dan Martell buyback)
+## 12. SESSION DISCIPLINE
+
+- **Start:** list scheduled Routines/triggers; check which Claude account the session bills to; check for `-DESKTOP-*` sync-conflict twins of this file.
+- **End:** file significant findings to the Notion "Claude Code" page the same turn; export the transcript.
+
+## 13. EFFICIENCY (Dan Martell buyback)
 
 - Chain every executable step in one turn. Never hand back a step a connector can perform.
 - Never make her paste, repeat, or re-approve.
