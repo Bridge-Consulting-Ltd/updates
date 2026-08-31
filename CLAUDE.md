@@ -52,8 +52,9 @@ Review her prompts in full → check connectors LIVE (never from memory) → ask
 
 ## 5. EMAIL ADDRESSES
 
-- Replies and correspondence → **bridget@bridgeconsulting.co.nz**
-- Gmail sends from → **bridget@bridgeconsultants.co.nz** (WITH S)
+- **bridget@bridgeconsulting.co.nz SENDS AND RECEIVES.** It is her working mailbox, both directions. She has said this many times. Never describe it as receive-only, as a "reply-to address", or as unable to send.
+- The limitation is the AGENT'S, not the mailbox's: this session cannot send *through* co.nz because native M365 is read-only (403 on Mail.Send) and the Zapier "Office 365" connection labelled co.nz is actually a personal Outlook.com account. **That is a tooling gap. Never state it as a fact about her mailbox.**
+- Gmail sends from → **bridget@bridgeconsultants.co.nz** (WITH S) — this is the agent's send lane only, with `reply_to` set to co.nz.
 - **bridget@bridgeconsulting.org.nz is COMPROMISED** — never direct replies there.
 - **No SMS, no phone verification, no WhatsApp** anywhere. The number is SIM-swapped; NZ Police notified.
 
