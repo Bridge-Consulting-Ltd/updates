@@ -106,8 +106,9 @@ Any page or file created outside a Claude-named location carries author, date an
 ## 11. SECURITY — ACTIVE INCIDENT (as at 31 Aug 2026)
 
 - **SIM swap confirmed. NZ Police notified.**
-- Attacker network: **116.90.74.0/23 (Auckland)** — corroborated independently by Notion login alerts and Anthropic security alerts. Also **219.89.211.176 (Invercargill)**. **Bridget is in Queenstown.**
-- Pattern: redirect the contact email, then act on the account. Seen at Google Payments (11 Aug), Q Mastercard (24 Aug), Notion App (26 Aug).
+- ⚠️ **NEVER ATTRIBUTE AN IP WITHOUT ACCOUNTING FOR HER VPN FIRST.** Her **PC runs Fortect VPN, which egresses via Auckland**. Surfshark is **phone only**. An Auckland IP on her accounts is most likely HER. A `116.90.74.0/23` "attacker network" claim was made on 31 Aug 2026, proved wrong, and **formally withdrawn with Anthropic the same day**. Do not repeat it.
+- What stands independently of any IP: Google Payments contact email changed 11 Aug; Q Mastercard email changed 24 Aug; unknown Google account set as recovery on her Gmail; two OneDrive mass-deletions (11 and 30 Aug); Notion token found in plain text.
+- Pattern: redirect the contact email, then act on the account.
 - Treat any credential, token or key found in plain text as live and exposed — tell her, and never reproduce its value in a report.
 
 ## 12. SESSION DISCIPLINE
